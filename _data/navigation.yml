@@ -8,20 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Current Affliation"
+    url: /teaching/   
+
   - title: "Publications"
     url: /publications/
 
-  #- title: "Talks"
-  #  url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Research Work"
+    url: /research/    
     
-  - title: "Portfolio"
-    url: /portfolio/     #in /portfolio
+  - title: "Education"
+    url: /education/     #in /portfolio
         
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+  - title: "Volunteering"
+    url: /Volunteering/
     
   #- title: "CV"
   #  url: /cv/     #pages/cv.md.... can put /files/123.pdf
