@@ -6,7 +6,6 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "University of Peradeniya"
 date: 2025-11-07
 location: "Peradeniya, Sri Lanka"
-published: false
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
