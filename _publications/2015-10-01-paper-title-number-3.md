@@ -2,7 +2,7 @@
 title: "BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations"
 collection: publications
 category: conferences
-permalink: /publication/2015-10-01-paper-title-number-3
+# permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2025-06-28
 venue: ''

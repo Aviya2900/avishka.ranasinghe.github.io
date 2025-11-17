@@ -2,7 +2,7 @@
 title: "PoseView3D: Dynamic Multi-View Angular Encoding for Skeleton-Based Action Recognition"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+# permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: ''
 date: 2025-11-07
 venue: 'IEEE Xplore'
