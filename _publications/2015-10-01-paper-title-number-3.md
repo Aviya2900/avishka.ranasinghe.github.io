@@ -5,7 +5,7 @@ category: conferences
 # permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
 date: 2025-06-28
-venue: ''
+# venue: ''
 paperurl: 'https://doi.org/10.48550/arXiv.2505.11640'
 citation: 'Thennakoon, P., Ranasinghe, A., Silva, D., Epakanda, B., Godaliyadda, R., Ekanayake, P. and Herath, V. (2025). BandRC: Band Shifted Raised Cosine Activated Implicit Neural Representations. [online] arXiv.org. Available at: https://arxiv.org/abs/2505.11640 [Accessed 8 Aug. 2025].'
 ---
