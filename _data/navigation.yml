@@ -20,7 +20,7 @@ main:
   - title: "Education"
     url: /education/     #in /portfolio
         
-  - title: "Volunteering"
+  - title: "Experience"
     url: /Volunteering/
     
   #- title: "CV"
