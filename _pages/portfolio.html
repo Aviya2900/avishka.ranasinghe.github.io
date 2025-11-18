@@ -5,10 +5,58 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+
+.portfolio-item {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 40px;
+  align-items: flex-start;
+}
+
+.portfolio-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.portfolio-images {
+  flex: 0 0 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.portfolio-images img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+@media (max-width: 768px) {
+  .portfolio-item {
+    flex-direction: column;
+  }
+  
+  .portfolio-images {
+    flex: 1;
+    width: 100%;
+  }
+}
+
+
 {% include base_path %}
 
-
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
+  
+    
+      {{ post.content }}
+    
+    {% if post.images %}
+    
+      {% for image in post.images %}
+        
+      {% endfor %}
+    
+    {% endif %}
+  
 {% endfor %}
-
