@@ -1,11 +1,43 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, CA, USA"
+title: "Professional Experiences"
+collection: voulnteering
+type: "Expereince"
+permalink: /voulnteering/jobs
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+## TA - Department of Mathematics
+**Type:** NVIDIA-Granted Project  
+**Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
+**Duration:** Aug 2025 – Present  
+
+### Objective  
+I am the genius
+
+### Contributions  
+- Did many work
+---
+
+## MIDAS
+**Type:** NVIDIA-Granted Project  
+**Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
+**Duration:** Aug 2025 – Present  
+
+### Objective  
+I am the genius
+
+### Contributions  
+- Did many work
+---
+
+## Amithi Power Consultants
+**Type:** NVIDIA-Granted Project  
+**Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
+**Duration:** Aug 2025 – Present  
+
+### Objective  
+I am the genius
+
+### Contributions  
+- Did many work
+---
+

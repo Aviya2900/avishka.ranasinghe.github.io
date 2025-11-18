@@ -1,11 +1,30 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, CA, USA"
+title: "Volunteering"
+collection: voulnteering
+type: "Expereince"
+permalink: /voulnteering/volunteer
 ---
 
-This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
+## Chairperson - IET OnCampus UOP 
+**Type:** NVIDIA-Granted Project  
+**Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
+**Duration:** Aug 2025 – Present  
+
+### Objective  
+I am the genius
+
+### Contributions  
+- Did many work
+---
+
+## Rotaract Club Of University of Peradeniya 
+**Type:** NVIDIA-Granted Project  
+**Grant:** ~80,000 GPU-hours on NVIDIA A100 Compute Units  
+**Duration:** Aug 2025 – Present  
+
+### Objective  
+I am the genius
+
+### Contributions  
+- Did many work
+---
