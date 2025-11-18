@@ -6,10 +6,10 @@ permalink: /teaching/2015-spring-teaching-1
 venue: "University of Peradeniya"
 date: 2024-08-01
 location: "Peradeniya, Sri Lanka"
-image: "J.A.D.png"
+# image: "J.A.D.png"
 ---
 
-working as an Active Research Assistant, Direct supervision under Prof. Roshan Godaliyadda
+Working as an Active Research Assistant, Direct supervision under Prof. Roshan Godaliyadda
 
 <!-- Heading 1
 ======

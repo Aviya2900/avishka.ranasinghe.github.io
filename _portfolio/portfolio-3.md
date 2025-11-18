@@ -3,7 +3,7 @@ title: "Primary Educations"
 expert: ""
 permalink: /portfolio/portfolio-3
 collection: portfolio
-image: "bio-photo.jpg, bio-photo-2.jpg"
+image: "royal.png"
 ---
 
 
