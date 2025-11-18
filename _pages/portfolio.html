@@ -1,72 +1,37 @@
 ---
 layout: archive
 title: "Education"
-permalink: /portfolio/
+permalink: /talks/
 author_profile: true
 ---
 
 {% include base_path %}
 
-
-.portfolio-item {
-  display: flex;
-  gap: 30px;
-  margin-bottom: 40px;
-  align-items: flex-start;
-}
-
-.portfolio-text {
-  flex: 1;
-  min-width: 0;
-}
-
-.portfolio-images {
-  flex: 0 0 300px;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-.portfolio-images img {
-  width: 100%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-@media (max-width: 768px) {
-  .portfolio-item {
-    flex-direction: column;
-  }
-  
-  .portfolio-images {
-    flex: 1;
-    width: 100%;
-  }
-}
-
-
 {% for post in site.portfolio reversed %}
-  
+  <article class="page__content" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 itemprop="headline">{{ post.title }}</h2>
     
-      {{ post.title }}
-      
-      {% if post.content %}
-        
-          {{ post.content }}
-        
-      {% endif %}
+    {% if post.expert %}
+      <p style="color: black;">
+        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> 
+      </p>
+    {% endif %}
     
+    {% if post.content %}
+      <div itemprop="description">
+        {{ post.content }}
+      </div>
+    {% endif %}
     
     {% if post.image %}
-      
+      <div style="display: flex; flex-wrap: wrap; gap: 15px; margin-top: 15px;">
         {% assign images = post.image | split: "," %}
         {% for img in images %}
-          
+          <img src="{{ base_path }}/images/{{ img | strip }}" alt="{{ post.title }}" style="max-width: 200px; border-radius: 10px;">
         {% endfor %}
-      
+      </div>
     {% endif %}
-  
-  
-  
+    
+    <hr style="margin: 30px 0;">
+  </article>
 {% endfor %}
