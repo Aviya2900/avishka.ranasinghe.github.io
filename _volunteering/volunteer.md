@@ -14,7 +14,7 @@ permalink: /voulnteering/volunteer
 I am the genius
 
 ### Contributions  
-- Did many work
+Did many work
 ---
 
 ## Rotaract Club Of University of Peradeniya 
@@ -26,5 +26,5 @@ I am the genius
 I am the genius
 
 ### Contributions  
-- Did many work
+Did many work
 ---

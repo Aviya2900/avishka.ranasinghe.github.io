@@ -14,7 +14,7 @@ permalink: /voulnteering/jobs
 I am the genius
 
 ### Contributions  
-- Did many work
+Did many work
 ---
 
 ## MIDAS
@@ -26,7 +26,7 @@ I am the genius
 I am the genius
 
 ### Contributions  
-- Did many work
+Did many work
 ---
 
 ## Amithi Power Consultants
@@ -38,6 +38,6 @@ I am the genius
 I am the genius
 
 ### Contributions  
-- Did many work
+Did many work
 ---
 
