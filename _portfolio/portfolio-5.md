@@ -21,5 +21,5 @@ image: ""
 - **Robotrix** – Line Following Robot Competition *(Webots Simulation)*  
   — IEEE RAS Student Branch, University of Peradeniya, 2021
   
-- **[Certificates](https://drive.google.com/file/d/1dpE6lj4p9yeN1fcSm2nWrU81Uen7EdU4/view?usp=sharing)**
+- **[Certificates](https://drive.google.com/drive/folders/1wp9429U4SkjG9TVENK5ZbtLNOIysP1vy?usp=drive_link)**
 

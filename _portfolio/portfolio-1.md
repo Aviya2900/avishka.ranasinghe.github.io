@@ -14,4 +14,4 @@ image: "Uop.png"
 - **GPA:** 3.70 / 4.0
 - Program delivered in **English medium**
 - Accredited under the **Washington Accord**
-- **[Transcript & Degree Certificate](https://drive.google.com/file/d/1dpE6lj4p9yeN1fcSm2nWrU81Uen7EdU4/view?usp=sharing)** available upon request
+- **[Transcript & Degree Certificate](https://drive.google.com/file/d/1BeEXWwCdOL6tpAcaBHzYn_BixsSEPZg8/view?usp=drive_link)** 
