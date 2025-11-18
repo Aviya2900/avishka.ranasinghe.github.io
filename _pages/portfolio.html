@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+{% include base_path %}
+
 
 .portfolio-item {
   display: flex;
@@ -44,18 +46,16 @@ author_profile: true
 }
 
 
-{% include base_path %}
-
 {% for post in site.portfolio %}
   
     
+      {{ post.title }}
       {{ post.content }}
     
-    {% if post.images %}
+    {% if post.image1 and post.image2 %}
     
-      {% for image in post.images %}
-        
-      {% endfor %}
+      
+      
     
     {% endif %}
   

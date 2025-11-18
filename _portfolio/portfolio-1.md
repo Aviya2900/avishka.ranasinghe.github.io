@@ -2,9 +2,8 @@
 title: "Bachelor of the Science of Engineering Honours (B.Sc. Engineering)"
 excerpt: "Electrical and Electronic Engineering - First Class Honours"
 collection: portfolio
-images:
-  - bio-photo.jpg
-  - bio-photo-2.jpg
+image1: bio-photo.jpg
+image2: bio-photo-2.jpg
 ---
 
 **Specialization:** Electrical and Electronic Engineering  
